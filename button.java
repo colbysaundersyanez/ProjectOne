@@ -292,7 +292,7 @@ class ScannerExample {
 }
        
    
-   
+//LEFT OVER CODE THAT MIGHT BE USED IN FUTURE.
    
                //for(int i = 0; i<=37; i++){store.add(1);}
 
